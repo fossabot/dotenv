@@ -18,6 +18,7 @@
 </div>
 
 # dotenv [![NPM version](https://img.shields.io/npm/v/dotenv.svg?style=flat-square)](https://www.npmjs.com/package/dotenv)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fdotenv.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fdotenv?ref=badge_shield)
 
 <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" alt="dotenv" align="right" width="200" />
 
@@ -690,3 +691,7 @@ See [CHANGELOG.md](CHANGELOG.md)
 [These npm modules depend on it.](https://www.npmjs.com/browse/depended/dotenv)
 
 Projects that expand it often use the [keyword "dotenv" on npm](https://www.npmjs.com/search?q=keywords:dotenv).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fdotenv.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fdotenv?ref=badge_large)
